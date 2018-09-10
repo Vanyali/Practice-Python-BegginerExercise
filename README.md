@@ -11,6 +11,11 @@ in order to study how it works, i am sorry for that. In TicTacToe are different 
 and need to get more in dept to understand how it works.
 
 
+I tried to follow linear as show in site. But sometimes i skip it or did some tries to solve the exercise or did multiple versions of the same problem with different ways or just copy a code from internet that was way better than mine to test and study it like TicTacToeOOP examples.
+
+
+
+
 
 
 
